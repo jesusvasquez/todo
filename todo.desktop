@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=To Do List
+GenericName=Lista de tareas
+Comment=Administra tus tareas por hacer
+Exec=/home/jesus/Apps/todo/todo.py
+Icon=appointment-new
+Terminal=false
+Type=Application
+Categories=Office;TaskManagement;GTK;
+Keywords=todo;task;tasks;pendientes;lista;
+StartupNotify=true
